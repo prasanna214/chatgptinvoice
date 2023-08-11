@@ -1,0 +1,13 @@
+[
+    {
+        "description": "Service 1",
+        "quantity": 2,
+        "unitPrice": 100
+    },
+    {
+        "description": "Service 2",
+        "quantity": 1,
+        "unitPrice": 150
+    }
+]
+
